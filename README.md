@@ -49,6 +49,9 @@ You want to add value to the wiki and you want to create a page about "foo". Now
 
 Without spaces, it is easier to create new pages.
 
+The big benefit of a central intranet wiki is that you have **one** place for the single source of truth. If you use spaces, then this gets lost, because you don't have one source anymore, you have several sources. Each space has its own "world".
+That's why I prefer to work with exactly one space.
+
 # Dealing with outdated pages
 
 Ask on the #contact-channel.
