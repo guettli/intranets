@@ -6,6 +6,8 @@ I maintain Intranet Wikis for fun and provit. I like:
 * [Canonicalization](https://en.wikipedia.org/wiki/Canonicalization)
 * [Hyperlinks](https://en.wikipedia.org/wiki/Hyperlink)
 
+With the following text I would like to share my findings with you. This is my best practices sharing.
+
 # What is an Intranet Wiki?
 
 * An Intranet Wiki is a tool is a knowledge base on which users collaboratively edit content.
