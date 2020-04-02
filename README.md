@@ -54,6 +54,8 @@ That's why I prefer to work with exactly one space.
 
 # Dealing with outdated pages
 
-Ask on the #contact-channel.
+Create a simple guideline how you want to handle outdated pages. You should keep in mind that the one that notices the outdated page should have nearly no effort. Otherwise this person won't tell you the fact and he will silently leave to something else.
+
+One pragmatic solution would be to ask on the corresponding #contact-channel.
 
 
