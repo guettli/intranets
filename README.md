@@ -54,6 +54,19 @@ Without spaces, it is easier to create new pages.
 The big benefit of a central intranet wiki is that you have **one** place for the single source of truth. If you use spaces, then this gets lost, because you don't have one source anymore, you have several sources. Each space has its own "world".
 That's why I prefer to work with exactly one space.
 
+# Stop dreaming: It will never be perfect
+
+An intranet wiki will never be perfect. There are two competing goals:
+
+* Crisp overview
+* detailed information
+
+You can have a perfect crips overview, but then the detailed information will be missing. Or you provide detailed information, then the crisp overview gets lost.
+
+If you are responsible for the intranet wiki and people complain about this: Listen to their **particular** issues. If it just general and vauge complaining, tell them that you need concrete proposals for improvement.
+
+It is likely that you need to repeat "I need concrete proposals for improvement" again and again.
+
 # Dealing with outdated pages
 
 Create a simple guideline how you want to handle outdated pages. You should keep in mind that the one that notices the outdated page should have nearly no effort. Otherwise this person won't tell you the fact and he will silently leave to something else.
