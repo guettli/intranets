@@ -35,6 +35,12 @@ This could be a chat-channel, an email address or a role. It is feasible to avoi
 
 The default should be: Everybody can create/update/delete pages. Only a few pages should be restricted.
 
+# Delete/Undelete
+
+If you delete a page, you should be able to undelete it. 
+
+This is no possible in Confluence. Deleting a page is not allowed for most users. And undelete is not possible, too. You need to be space-admin to undelete the page you deleted.
+
 # Avoid Spaces
 
 Most Wiki systems allow you to create several spaces. This sounds feasible in the beginning. 
