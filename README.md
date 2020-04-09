@@ -62,6 +62,24 @@ Without spaces, it is easier to create new pages.
 The big benefit of a central intranet wiki is that you have **one** place for the single source of truth. If you use spaces, then this gets lost, because you don't have one source anymore, you have several sources. Each space has its own "world".
 That's why I prefer to work with exactly one space.
 
+# Only send email notifications if requested.
+
+Some Wiki engines love sending mails. As soon as you edited a page one time, you always get an email notification if someone else updates the pages. 
+
+This slows down the process.
+
+Imagine you want to change one small thing on a page. You know: "If I will change this page, then ten people will get a notification about this change". And what will you do? You won't do this little clean up, since you don't want to annoy people with this small change.
+
+Yes, I know that there are some special buttons like "Don't notify watchers", but lets look at the default.
+
+If someone wants to get notifications if a page changes, then there should be a simple way to subscribe to changes.
+
+But if you don't subscribe to changes, then you should not get notifications.
+
+General rule: Avoid [Information overload](https://en.wikipedia.org/wiki/Information_overload)
+
+
+
 # Stop dreaming: It will never be perfect
 
 An intranet wiki will never be perfect. There are two competing goals:
