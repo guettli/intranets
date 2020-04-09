@@ -100,3 +100,6 @@ Create a simple guideline how you want to handle outdated pages. You should keep
 One pragmatic solution would be to ask on the corresponding #contact-channel.
 
 
+# I need your feedback
+
+Please tell me what is nice and useful or wrong and useless. Please write me an email (info.intranet-wiki-guidelines@thomas-guettler.de) or [create an issue](https://github.com/guettli/intranet-wiki-guidelines/issues).
