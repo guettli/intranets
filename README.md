@@ -31,7 +31,7 @@ An Intranet Wiki should provide an overview. Historical details should be remove
 
 There are several open source wikis: [DokuWiki](https://www.dokuwiki.org/dokuwiki), [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome), ... See [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
 
-I worked with DokuWiki, MediaWiki and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives. 
+I worked with DokuWiki, MediaWiki, Trac and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives. 
 
 This text is about how to use a wiki system for a intranet knowledge base.
 
