@@ -27,6 +27,14 @@ Wikipedia pages are often very detailed. Usually, it makes no sense to explain e
 
 An Intranet Wiki should provide an overview. Historical details should be removed to focus on the current state.
 
+# Which Wiki Software?
+
+There are several open source wikis: [DokuWiki](https://www.dokuwiki.org/dokuwiki), [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome), ... See [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
+
+I worked with DokuWiki, MediaWiki and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives. 
+
+This text is about how to use a wiki system for a intranet knowledge base.
+
 # #contact-channel
 
 It is feasible to publish a #contact-channel on every wiki page. If a reader of the page has a question that is not answered on this page, he should know where he can ask his questions.
@@ -51,7 +59,7 @@ pages in space-D1 and department D2 can create pages in space-D2 and there will 
 
 No, please avoid spaces. Sooner or later Term "X" will get explained twice. Once space-D1 and once space-D2. Now an employee of department D3 wants to learn about "X". What should he do?
 
-This "peace" you get with spaces, will get [information silos](https://en.wikipedia.org/wiki/Information_silo).
+This "peace" you get with spaces, will lead to [information silos](https://en.wikipedia.org/wiki/Information_silo).
 
 Next argument against spaces: Imagine you are new at the company and you realize that there is no page up to now for "foo".
 
