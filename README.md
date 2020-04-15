@@ -31,15 +31,17 @@ An Intranet Wiki should provide an overview. Historical details should be remove
 
 There are several open source wikis: [DokuWiki](https://www.dokuwiki.org/dokuwiki), [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome), ... See [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
 
-I worked with DokuWiki, MediaWiki, Trac and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives. 
+I worked with DokuWiki, MediaWiki, Trac, Github and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives. 
 
 This text is about how to use a wiki system for a intranet knowledge base.
 
-# #contact-channel
+# Drafts needed?
 
-It is feasible to publish a #contact-channel on every wiki page. If a reader of the page has a question that is not answered on this page, he should know where he can ask his questions.
+Simple wiki systems don't have drafts. It is not realy needed. If someone wants to change a page he/she should go ahead and change it.
 
-This could be a chat-channel, an email address or a role. It is feasible to avoid particular people, since they can be on holiday, busy or [hit by bus](https://en.wikipedia.org/wiki/Bus_factor).
+If you want to discuss your changes before actually changeing the page, then you have a lot of alternatives to drafts: You can create copy of the page and work on this copy. Or you use a  [Collaborative real-time editor](https://en.wikipedia.org/wiki/Collaborative_real-time_editor) like GSuite, office365 or Nextcloud.
+
+If the wiki system provides drafts, then one feature is important: Sharing the draft should be easy. The draft has no value, if you try to share the draft and the people you want check your text get a "Permission denied".
 
 # Default permissions
 
@@ -50,6 +52,13 @@ The default should be: Everybody can create/update/delete pages. Only a few page
 If you delete a page, you should be able to undelete it. 
 
 This is no possible in Confluence. Deleting a page is not allowed for most users. And undelete is not possible, too. You need to be space-admin to undelete the page you deleted.
+
+
+# #contact-channel
+
+It is feasible to publish a #contact-channel on every wiki page. If a reader of the page has a question that is not answered on this page, he should know where he can ask his questions.
+
+This could be a chat-channel, an email address or a role. It is feasible to avoid particular people, since they can be on holiday, busy or [hit by bus](https://en.wikipedia.org/wiki/Bus_factor).
 
 # Avoid Spaces
 
