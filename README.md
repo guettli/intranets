@@ -19,25 +19,25 @@ With the following text I would like to share my findings with you. This is my b
 Every company has its terminology. For new employees, it is very helpful to have a definition of the terms which
 are custom.
 
-But a central Wiki is useful to improve the communication between departments. Because the terminology between departments differs.
+But a central Wiki is useful to improve the communication between departments, too. Because the terminology between departments differs.
 
 # Difference between an Intranet Wiki and Wikipedia
 
 Wikipedia pages are often very detailed. Usually, it makes no sense to explain every detail in an Intranet Wiki.
 
-An Intranet Wiki should provide an overview. Historical details should be removed to focus on the current state.
+An Intranet Wiki should provide an overview. Historical details should be removed or put onto an second page to focus on the current state.
 
 # Which Wiki Software?
 
 There are several open source wikis: [DokuWiki](https://www.dokuwiki.org/dokuwiki), [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), [XWiki](https://www.xwiki.org/xwiki/bin/view/Main/WebHome), ... See [Comparison of wiki software](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)
 
-I worked with DokuWiki, MediaWiki, Trac, Github and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives. 
+I worked with DokuWiki, MediaWiki, Trac, Github and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives, since I am not 100% happy with it.
 
-This text is about how to use a wiki system for a intranet knowledge base.
+This text is about how to use a wiki system for a intranet knowledge base. Choosing the right wiki is a different topic.
 
 # Drafts needed?
 
-Simple wiki systems don't have drafts. It is not realy needed. If someone wants to change a page he/she should go ahead and change it.
+Simple wiki systems don't have drafts. Drafts are not realy needed. If someone wants to change a page he/she should go ahead and change it.
 
 If you want to discuss your changes before actually changeing the page, then you have a lot of alternatives to drafts: You can create copy of the page and work on this copy. Or you use a  [Collaborative real-time editor](https://en.wikipedia.org/wiki/Collaborative_real-time_editor) like GSuite, office365 or Nextcloud.
 
@@ -49,7 +49,7 @@ The default should be: Everybody can create/update/delete pages. Only a few page
 
 # Delete/Undelete
 
-If you delete a page, you should be able to undelete it. 
+If you delete a page, you should be able to undelete it again.
 
 This is no possible in Confluence. Deleting a page is not allowed for most users. And undelete is not possible, too. You need to be space-admin to undelete the page you deleted.
 
@@ -60,24 +60,28 @@ It is feasible to publish a #contact-channel on every wiki page. If a reader of 
 
 This could be a chat-channel, an email address or a role. It is feasible to avoid particular people, since they can be on holiday, busy or [hit by bus](https://en.wikipedia.org/wiki/Bus_factor).
 
+More about contact-channels here: [IUA (if unsure ask ...)](https://github.com/guettli/IUA-Channel)
+
 # Avoid Spaces
 
 Most Wiki systems allow you to create several spaces. This sounds feasible in the beginning. 
 This way department D1 can create
 pages in space-D1 and department D2 can create pages in space-D2 and there will be peace since these spaces don't overlap.
 
-No, please avoid spaces. Sooner or later Term "X" will get explained twice. Once space-D1 and once space-D2. Now an employee of department D3 wants to learn about "X". What should he do?
+No, please avoid spaces. Sooner or later term "X" will get explained twice. Once in space-D1 and once in space-D2. Now an employee of department D3 wants to learn about "X". What should he do?
 
 This "peace" you get with spaces, will lead to [information silos](https://en.wikipedia.org/wiki/Information_silo).
 
+
 Next argument against spaces: Imagine you are new at the company and you realize that there is no page up to now for "foo".
 
-You want to add value to the wiki and you want to create a page about "foo". Now you are faced with the question "Which space should I use?". Likely, the new and motivated employee can't get an answer to this question soon. Then it is Friday evening, then the weekend, and on Monday there are so many different things, that he will forget to create a page for "foo".
+You want to add value to the wiki and you want to create a page about "foo". Now you are faced with the question "Which space should I use?". Likely, the new and motivated employee can't get an answer to this question soon. Then it is Friday evening, then comes the weekend, and on Monday there are so many different things, that he will forget to create a page for "foo".
 
 Without spaces, it is easier to create new pages.
 
 The big benefit of a central intranet wiki is that you have **one** place for the single source of truth. If you use spaces, then this gets lost, because you don't have one source anymore, you have several sources. Each space has its own "world".
-That's why I prefer to work with exactly one space.
+
+Getting to a single source of truth is hard, but worth the effort.
 
 # Only send email notifications if requested.
 
