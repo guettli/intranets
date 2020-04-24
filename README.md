@@ -116,6 +116,18 @@ If you are responsible for the intranet wiki and people complain about this: Lis
 
 It is likely that you need to repeat "I need concrete proposals for improvement" again and again.
 
+# Discussion per page: Great, but ....
+
+Some Wiki Software provides you a way to comment on the page. Sounds feasible at first sight, but .....
+
+The page is common ground. If there was a mistake, it gets updated. 
+
+But you can't update comments.
+
+I like the Wikipedia way: There is an extra page for discussions and feedback, but the average user just sees the page, no comments. Only if you are curious and switch to the extra page you see the discussions.
+
+In Confluence you see the discussion immediately. One thing makes it more wired: The first comment is the oldest. It is very likely that the user sees a comment which does not apply any more since the concern in the first comment was already solved several months ago. If comments are immediately visible, then the first comment should be the latest comment.
+
 # Dealing with outdated pages
 
 Create a simple guideline how you want to handle outdated pages. You should keep in mind that the one that notices the outdated page should have nearly no effort. Otherwise this person won't tell you the fact and he will silently leave to something else.
