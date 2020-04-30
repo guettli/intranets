@@ -116,6 +116,20 @@ If you are responsible for the intranet wiki and people complain about this: Lis
 
 It is likely that you need to repeat "I need concrete proposals for improvement" again and again.
 
+# Lists
+
+It helps to get to clear and easy to understand processes if lists are visible and not stored in the brain.
+
+For example: List of departments, list of teams, list of customers, list of roles, list of employees, list of products, 
+list of contracts, ...
+
+There is no need to store them in the wiki. If this list is already stored in a different system,
+then create a hyperlink to this system.
+
+Hardworking people can cause harm, if they think they can create valuable content by doing copy and paste.
+
+There should be one, canonical, authoritive list. There should not be a second (redundant) list.
+
 # Discussion per page: Great, but ....
 
 Some Wiki Software provides you a way to comment on the page. Sounds feasible at first sight, but .....
