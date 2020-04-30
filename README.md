@@ -136,11 +136,11 @@ Some Wiki Software provides you a way to comment on the page. Sounds feasible at
 
 The page is common ground. If there was a mistake, it gets updated. 
 
-But you can't update comments.
+But you can't update the comment of someone else.
 
-I like the Wikipedia way: There is an extra page for discussions and feedback, but the average user just sees the page, no comments. Only if you are curious and switch to the extra page you see the discussions.
+I like the Wikipedia way: There is an extra page for discussions and feedback, but the average user just sees the page and he sees no comments. Only if you are curious and switch to the extra page you see the discussions.
 
-In Confluence you see the discussion immediately. One thing makes it more wired: The first comment is the oldest. It is very likely that the user sees a comment which does not apply any more since the concern in the first comment was already solved several months ago. If comments are immediately visible, then the first comment should be the latest comment.
+In Confluence you see the discussion immediately. One thing makes it more wired: The first comment is the oldest. It is very likely that the user sees a comment which does not apply any more since the concern in the first comment was already solved several months ago.
 
 # Dealing with outdated pages
 
