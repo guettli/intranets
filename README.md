@@ -101,6 +101,17 @@ But if you don't subscribe to changes, then you should not get notifications.
 
 General rule: Avoid [Information overload](https://en.wikipedia.org/wiki/Information_overload)
 
+# What to add, and what not
+
+The acronyms PII, BYOD, CI, HTML, CSS have all one thing in common: If you search for it with your favorite search engine, then you will find an explanation. 
+
+This means there is no need to create a wiki page for it, except you want to explain your particular set up.
+
+Example: CI means [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
+
+If you create a page about CI, then start with the introduction. A person without software development knowledge should understand what it is about. It is ok to just copy+paste this from the Wikipedia and create a link from your page to the source.
+
+After the introduction explain your particular set-up. Add the URL where you can access the system (or systems) and add 
 
 
 # Stop dreaming: It will never be perfect
