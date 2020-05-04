@@ -111,7 +111,7 @@ Example: CI means [Continuous integration](https://en.wikipedia.org/wiki/Continu
 
 If you create a page about CI, then start with the introduction. A person without software development knowledge should understand what it is about. It is ok to just copy+paste this from the Wikipedia and create a link from your page to the source.
 
-After the introduction explain your particular set-up. Add the URL where you can access the system (or systems) and add 
+After the introduction explain your particular set-up. Add the URL where you can access the system (or systems) and add [#contact-channel] where new users can ask questions.
 
 
 # Stop dreaming: It will never be perfect
