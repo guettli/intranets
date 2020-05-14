@@ -153,6 +153,10 @@ I like the Wikipedia way: There is an extra page for discussions and feedback, b
 
 In Confluence you see the discussion immediately. One thing makes it more wired: The first comment is the oldest. It is very likely that the user sees a comment which does not apply any more since the concern in the first comment was already solved several months ago.
 
+# Avoid duplications
+
+If the term "Review" gets used for source code review and for the sprint review, it is likely that misunderstandings will happen. Try to have unique terms. For example use "Sprint-Demo".
+
 # Dealing with outdated pages
 
 Create a simple guideline how you want to handle outdated pages. You should keep in mind that the one that notices the outdated page should have nearly no effort. Otherwise this person won't tell you the fact and he will silently leave to something else.
