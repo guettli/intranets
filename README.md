@@ -163,6 +163,15 @@ Create a simple guideline how you want to handle outdated pages. You should keep
 
 One pragmatic solution would be to ask on the corresponding #contact-channel.
 
+# "One big glossary page" vs "many small pages"
+
+I recommend "many small pages". Create a page for every term.
+
+This gives every term a unique and canonical URL. This helps a lot.
+
+Creating hyperlinks which link to a part inside the page (https://..../glossary**#my-term**) are
+difficult to handle.
+
 
 # I need your feedback
 
