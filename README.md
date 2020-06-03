@@ -169,7 +169,7 @@ I recommend "many small pages". Create a page for every term.
 
 This gives every term a unique and canonical URL. This helps a lot.
 
-Creating hyperlinks which link to a part inside the page (https://..../glossary**#my-term**) are
+Creating hyperlinks which link to a part inside the page (like "#my-term" in https://..../glossary#my-term) are
 difficult to handle.
 
 
