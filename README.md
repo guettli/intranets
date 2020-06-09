@@ -89,6 +89,9 @@ Getting to a single source of truth is hard, but worth the effort.
 
 If you don't feel comfortable with a flat namespace, and you want to do grouping, then please consider to use a hierarchical tree. It is much more powerfull than a one level deep grouping you get with spaces.
 
+How does Wikipedia solve this?
+
+The append the context in parentheses. For example the "Python (programming language)" and "Python_(genus)"
 
 # Only send email notifications if requested.
 
