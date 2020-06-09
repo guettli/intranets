@@ -85,6 +85,11 @@ The big benefit of a central intranet wiki is that you have **one** place for th
 
 Getting to a single source of truth is hard, but worth the effort.
 
+# A tree is better than spaces
+
+If you don't feel comfortable with a flat namespace, and you want to do grouping, then please consider to use a hierarchical tree. It is much more powerfull than a one level deep grouping you get with spaces.
+
+
 # Only send email notifications if requested.
 
 Some Wiki engines love sending mails. As soon as you edited a page one time, you always get an email notification if someone else updates the pages. 
