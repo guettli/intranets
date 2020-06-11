@@ -173,7 +173,7 @@ One pragmatic solution would be to ask on the corresponding #contact-channel.
 
 # "One big glossary page" vs "many small pages"
 
-I recommend "many small pages". Create a page for every term.
+I recommend "many small pages". Create a page for every term. I know a lot of people don't like this idea, but I don't see an better alternative.
 
 This gives every term a unique and canonical URL. This helps a lot.
 
