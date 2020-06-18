@@ -1,4 +1,4 @@
-# Intranet Wiki Guidelines
+# Intranets: My point of view
 
 > "Without clarity of speech man is only a garden gnome" (German pop music band "Element of Crime" in the song "Alle vier minuten")
 
@@ -10,7 +10,7 @@ I maintain Intranet Wikis for fun and provit. I like:
 
 With the following text I would like to share my findings with you. This is my best practices sharing.
 
-These are my personal opinionated guidelines. Take them and create your guidelines. Please share your point of view, too!
+This is my personal opinionated point of view. Read them and create your own point of view. Please share your point of view, too!
 
 
 # What is an Intranet Wiki?
@@ -133,6 +133,16 @@ You can have a perfect crips overview, but then the detailed information will be
 If you are responsible for the intranet wiki and people complain about this: Listen to their **particular** issues. If it just general and vauge complaining, tell them that you need concrete proposals for improvement.
 
 It is likely that you need to repeat "I need concrete proposals for improvement" again and again.
+
+# Fast Feedback
+
+Provide a simple way for every reader to submit his feedback:
+
+* I like this page
+* I think this pages looks outdated
+* I think this page is not needed any more
+* This page is related to URL/other-page
+* I am missing "....."
 
 # Lists
 
