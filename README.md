@@ -221,7 +221,8 @@ An approval process will slow everything down. See [Disadvantages of article val
 
 > If you want to use a volunteer day, write an e-mail to "emma.sunshine@our-company.com"
 
-What happens with Emma is on vacation?
+What happens if Emma is on vacation?
+
 
 
 
