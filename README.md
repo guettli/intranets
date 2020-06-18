@@ -12,6 +12,7 @@ With the following text I would like to share my findings with you. This is my b
 
 These are my personal opinionated guidelines. Take them and create your guidelines. Please share your point of view, too!
 
+
 # What is an Intranet Wiki?
 
 * An Intranet Wiki is a tool is a knowledge base on which users collaboratively edit content.
@@ -85,9 +86,7 @@ The big benefit of a central intranet wiki is that you have **one** place for th
 
 Getting to a single source of truth is hard, but worth the effort.
 
-# A tree is better than spaces
-
-If you don't feel comfortable with a flat namespace, and you want to do grouping, then please consider to use a hierarchical tree. It is much more powerfull than a one level deep grouping you get with spaces.
+# An optional contexts better than spaces
 
 How does Wikipedia solve this?
 
@@ -210,6 +209,13 @@ I say "free yourself from hierarchies": One term, one page. This is like a very 
 
 Unfortunately this perspective is new and up to now not wide spread. But slowly this insight grows and 
 people avoid hierarchies for intranet pages.
+
+# Approval Process
+
+An approval process will slow everything down. See [Disadvantages of article validation (Wikipedia)](https://meta.wikimedia.org/wiki/Article_validation#Disadvantages)
+
+
+
 
 # Avoid contact persons, use contact channels.
 
