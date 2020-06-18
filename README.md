@@ -242,4 +242,4 @@ What happens if Emma is on vacation?
 
 # I need your feedback
 
-Please tell me what is nice and useful or wrong and useless. Please write me an email (info.intranet-wiki-guidelines@thomas-guettler.de) or [create an issue](https://github.com/guettli/intranet-wiki-guidelines/issues).
+Please tell me what is nice and useful or wrong and useless. Please write me an email (info.intranets@thomas-guettler.de) or [create an issue](https://github.com/guettli/intranets/issues).
