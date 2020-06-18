@@ -214,7 +214,11 @@ people avoid hierarchies for intranet pages.
 
 An approval process will slow everything down. See [Disadvantages of article validation (Wikipedia)](https://meta.wikimedia.org/wiki/Article_validation#Disadvantages)
 
+In the past several projects started with the big goal to be better than Wikipedia. They advertised with
+a review and approval process which will result in better results.
 
+AFAIK there is no real alternative Wikipedia. This concept has won. And if you disagree with a particular
+part, then go ahead and improve it. No complicated process is between your idea and the world wide visible change.
 
 
 # Avoid contact persons, use contact channels.
