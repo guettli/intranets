@@ -180,6 +180,44 @@ This gives every term a unique and canonical URL. This helps a lot.
 Creating hyperlinks which link to a part inside the page (like "#my-term" in https://..../glossary#my-term) are
 difficult to handle.
 
+# Free yourself from hierarchies
+
+People like hierarchies. Some examples.
+
+* Org-Charts: On top is the CEO, below him/her the C-level, then managers, then at the bottom the normal workers.
+
+* In the past encyclopedias got sold in collections of book: The first book contained all terms starting with "A"....
+
+* Books have several chapters, and each chapter has several sections.
+
+* The world consists of several countries. Most countries have sub-divisions like "states".
+
+* Local files in your hard-disk get stored in folders, which can contain folders ... Like "C:\Users\YourUsername"
+
+These hierarchical view works for some terms, but not for all.
+
+Imagine you want to buy a new smartphone. If you go to a price comparison website, the website won't show you huge big tree.
+
+It will show you several aspects for filtering and finding the product which matches your needs.
+
+There are inputs for a price range, for the vendor, the size of the internal storage, size of the display, ....
+
+This is not a single big hierarchy. There are several **aspects**.
+
+Back to our topic "Intranets". What does this mean for the structure of intranets?
+
+I say "free yourself from hierarchies": One term, one page. This is like a very long glossary. 
+
+Unfortunately this perspective is new and up to now not wide spread. But slowly this insight grows and 
+people avoid hierarchies for intranet pages.
+
+# Avoid contact persons, use contact channels.
+
+> If you want to use a volunteer day, write an e-mail to "emma.sunshine@our-company.com"
+
+What happens with Emma is on vacation?
+
+
 
 # I need your feedback
 
