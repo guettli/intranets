@@ -86,6 +86,12 @@ The big benefit of a central intranet wiki is that you have **one** place for th
 
 Getting to a single source of truth is hard, but worth the effort.
 
+Example: If people are unsure which space to choose, then they soon find an easy way: Let's create a personal space. I call it like my name "Emma Sunshine" and then I am free. Can you feel this great feeling of freedom and relaxed lack of concerns?
+Yes, great feeling, but useless in the long run. Will you improve a page which is the space of "Emma Sunshine"? I guess you won't. And if no one improves these pages, they will get outdated soon. Personal spaces are the opposite of collaboration.
+
+
+
+
 # An optional context is better than spaces
 
 How does Wikipedia solve this?
