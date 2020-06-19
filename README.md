@@ -15,14 +15,14 @@ This is my personal opinionated point of view. Read them and create your own poi
 
 # What is an Intranet Wiki?
 
-* An Intranet Wiki is a tool is a knowledge base on which users collaboratively edit content.
+* An Intranet Wiki is a tool on which users collaboratively edit content.
 * This content is available for all employees in a company and not visible on the world wide web.
 * One term is explained on one page. This page is accessible via [a canonical URL](https://en.wikipedia.org/wiki/Canonicalization#URL).
 
 Every company has its terminology. For new employees, it is very helpful to have a definition of the terms which
 are custom.
 
-But a central Wiki is useful to improve the communication between departments, too. Because the terminology between departments differs.
+But a central Wiki is useful to improve the communication between departments, too, because the terminology between departments differs.
 
 # Difference between an Intranet Wiki and Wikipedia
 
@@ -36,7 +36,7 @@ There are several open source wikis: [DokuWiki](https://www.dokuwiki.org/dokuwik
 
 I worked with DokuWiki, MediaWiki, Trac, Github and Confluence. Today I would choose DokuWiki, but before I would have a look at modern alternatives, since I am not 100% happy with it.
 
-This text is about how to use a wiki system for a intranet knowledge base. Choosing the right wiki is a different topic.
+This text is about how to use a system for an intranet knowledge base. Choosing the right system is a different topic.
 
 # Drafts needed?
 
@@ -86,11 +86,11 @@ The big benefit of a central intranet wiki is that you have **one** place for th
 
 Getting to a single source of truth is hard, but worth the effort.
 
-# An optional contexts better than spaces
+# An optional context is better than spaces
 
 How does Wikipedia solve this?
 
-The append the context in parentheses. For example the "Python (programming language)" and "Python_(genus)"
+They append the context in parentheses. For example the "Python (programming language)" and "Python_(genus)"
 
 # Only send email notifications if requested.
 
@@ -98,9 +98,9 @@ Some Wiki engines love sending mails. As soon as you edited a page one time, you
 
 This slows down the process.
 
-Imagine you want to change one small thing on a page. You know: "If I will change this page, then ten people will get a notification about this change". And what will you do? You won't do this little clean up, since you don't want to annoy people with this small change.
+Imagine you want to change one small thing on a page. You know: "If I will change this page, then twenty people will get a notification about this change". And what will you do? You won't do this little clean up, since you don't want to annoy people with this small change.
 
-Yes, I know that there are some special buttons like "Don't notify watchers", but lets look at the default.
+Yes, I know that there are some special buttons like "Don't notify watchers". You know this button, I know this button but the average non-intranet-fanatic does not know it.
 
 If someone wants to get notifications if a page changes, then there should be a simple way to subscribe to changes.
 
@@ -110,13 +110,13 @@ General rule: Avoid [Information overload](https://en.wikipedia.org/wiki/Informa
 
 # What to add, and what not
 
-The acronyms PII, BYOD, CI, HTML, CSS have all one thing in common: If you search for it with your favorite search engine, then you will find an explanation. 
+The acronyms JS, CI, HTML, CSS, AFAIK have all one thing in common: If you search for it with your favorite search engine, then you will find an explanation. 
 
-This means there is no need to create a wiki page for it, except you want to explain your particular set up.
+This means there is no need to create a wiki page for it-
 
 Example: CI means [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
 
-If you create a page about CI, then start with the introduction. A person without software development knowledge should understand what it is about. It is ok to just copy+paste this from the Wikipedia and create a link from your page to the source.
+But if you create a page about CI, then start with the introduction. Even if you think "everybody knows this". Maybe everybody in the engineering department knows it. But a person without software development knowledge should understand what it is about. It is ok to just copy+paste this from the Wikipedia and create a link from your page to the source.
 
 After the introduction explain your particular set-up. Add the URL where you can access the system (or systems) and add [#contact-channel](#contact-channel) where new users can ask questions.
 
