@@ -237,8 +237,19 @@ part, then go ahead and improve it. No complicated process is between your idea 
 
 What happens if Emma is on vacation?
 
+# If you use the Intranet for Brainstorming and Dreaming: State this
 
+Most new projects start with enthusiasm. This will result in text like 
 
+> We meet once a week to present the results of the working group.
+
+I would start slow here: Just write down the current facts. Just because you did
+this in the last month, does not mean you do this six months later. It is likely
+that the working group won't do this regular presentations in the future.
+
+My hint: For brainstorming, dreaming and New Year Resulutions it is better to use GSuite/M365/Nextcloud.
+
+If you use it for brainstorming, then state this at the top of the page.
 
 # I need your feedback
 
