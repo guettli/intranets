@@ -90,7 +90,20 @@ Example: If people are unsure which space to choose, then they soon find an easy
 Yes, great feeling, but useless in the long run. Will you improve a page which is the space of "Emma Sunshine"? I guess you won't. And if no one improves these pages, they will get outdated soon. Personal spaces are the opposite of collaboration.
 
 
+Example 2: Team B wants to work on a new topic and discover that a different team 
+A started to work on this topic some month ago, but it seems that the process is stuck. 
+Team B sees no progress of team B. The pages of team A are outdated.
+Team A has its own space, and team B has its own space. What will happen? Team B will take the easy road: 
+They will start with new pages in Space B. What will happen to the old pages in Space A? Nothing. 
+Team B is motivated to do it better. It is likely that noone of team B will talk to team B.
+That's the easy road. That's why I think
+working without spaces is better in the long run. If there is only **one** space, then it would be more likely 
+that team B would get in contact with team A and
+update the old pages, instead of just starting from scratch in their own space.
 
+Starting from scratch feels great. No constraints, no legacy stuff ....
+
+What would be better? Team B should talk to team A and work on **one** joint solution.
 
 # An optional context is better than spaces
 
