@@ -19,7 +19,7 @@ If something is unclear to me, then it is very likely that several other collegu
 
 I seek the answer (like everybody) and then I update the central docs (only few people do this).
 
-So it helps twice: I learn, and the learning process for new employees get improved. 
+So it helps twice: I learn, and the learning process for other employees get improved. 
 But you need to be careful: Too detailed information won't help (and gets outdated too soon). 
 My goal is to provide a clear terminology and an overview. 
 
