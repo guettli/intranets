@@ -12,6 +12,16 @@ With the following text I would like to share my findings with you. This is my b
 
 This is my personal opinionated point of view. Read them and create your own point of view. Please share your point of view, too!
 
+Raising obviousness is my passion. Our modern infrastructure is based on roads, water/gas/electricity supply. 
+Clean, simple docs are the like good roads in a knowledge-worker environment. 
+Raising obviousness helps to increase the efficiency.
+If something is unclear to me, than it is very likely that several other Staffpranos have the same issue (but just don't talk about this).
+
+I seek the answer (like everybody) and then I update the central docs (only few people do this).
+
+So it helps twice: I learn, and the learning process for new employees get improved. 
+But you need to be careful: Too detailed information won't help (and gets outdated too soon). 
+My goal is to provide a clear terminology and an overview. 
 
 # What is an Intranet Wiki?
 
