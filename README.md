@@ -15,7 +15,7 @@ This is my personal opinionated point of view. Read them and create your own poi
 Raising obviousness is my passion. Our modern infrastructure is based on roads, water/gas/electricity supply. 
 Clean, simple docs are the like good roads in a knowledge-worker environment. 
 Raising obviousness helps to increase the efficiency.
-If something is unclear to me, than it is very likely that several other collegues have the same issue (but just don't talk about this).
+If something is unclear to me, then it is very likely that several other collegues have the same issue (but just don't talk about this).
 
 I seek the answer (like everybody) and then I update the central docs (only few people do this).
 
