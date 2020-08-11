@@ -1,4 +1,4 @@
-# Intranets Docs: My point of view
+# Documentation in Intranets: My point of view
 
 > "Without clarity of speech man is only a garden gnome" (German pop music band "Element of Crime" in the song "Alle vier minuten")
 
