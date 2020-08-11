@@ -14,13 +14,13 @@ Keep in mind, that this is my personal opinionated point of view. Read them and 
 
 Unfortunately there is no clear term, here are some examples:
 
-* documentation in intranets
-* internal knowledge-base
-* wiki
-* some call it like the tool: Sharepoint, Confluence, Zendesk, Jive, ...
-* or just "intranet"
+* Documentation in intranets
+* Internal knowledge-base
+* Wiki
+* Some call it like the tool: Sharepoint, Confluence, Zendesk, Jive, ...
+* Or just "intranet"
 
-I know that an intranet is more than the collaboratively edited content, but for this article I would just use the term "intranet".
+I know that an intranet is more than the collaboratively edited content, but for this article I would just use the term "Wiki".
 
 Raising obviousness is my passion. Our modern infrastructure is based on roads, water/gas/electricity supply. 
 Clean, simple docs are the like good roads in a knowledge-worker environment. 
@@ -35,10 +35,10 @@ So it helps twice: I learn, and the learning process for other employees get imp
 But you need to be careful: Too detailed information won't help (and gets outdated too soon). 
 My goal is to provide a clear terminology and an overview. 
 
-# What is an Intranet ?
+# What is a Intranet Wiki ?
 
 * An Intranet Wiki is a tool on which users collaboratively edit content.
-* This content is available for all employees in a company and not visible on the world wide web.
+* This content is available for all employees in a company and it is not visible on the world wide web.
 * One term is explained on one page. This page is accessible via [a canonical URL](https://en.wikipedia.org/wiki/Canonicalization#URL).
 
 Every company has its terminology. For new employees, it is very helpful to have a definition of the terms which
