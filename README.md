@@ -2,7 +2,7 @@
 
 > "Without clarity of speech man is only a garden gnome" (German pop music band "Element of Crime" in the song "Alle vier minuten")
 
-I maintain Intranet Wikis for fun and provit. I like:
+I maintain Intranets for fun and provit. I like:
 
 * [Single Source of Truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 * [Canonicalization](https://en.wikipedia.org/wiki/Canonicalization)
