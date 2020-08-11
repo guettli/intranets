@@ -1,29 +1,41 @@
-# Intranets: My point of view
+# Intranets Docs: My point of view
 
 > "Without clarity of speech man is only a garden gnome" (German pop music band "Element of Crime" in the song "Alle vier minuten")
 
-I maintain Intranets for fun and provit. I like:
+I maintain documentation in intranets for fun and provit. I like:
 
 * [Single Source of Truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 * [Canonicalization](https://en.wikipedia.org/wiki/Canonicalization)
 * [Hyperlinks](https://en.wikipedia.org/wiki/Hyperlink)
 
-With the following text I would like to share my findings with you. This is my best practices sharing.
+With the following text I would like to share my findings with you.
 
-This is my personal opinionated point of view. Read them and create your own point of view. Please share your point of view, too!
+Keep in mind, that this is my personal opinionated point of view. Read them and create your own point of view.
+
+Unfortunately there is no clear term, here are some examples:
+
+* documentation in intranets
+* internal knowledge-base
+* wiki
+* some call it like the tool: Sharepoint, Confluence, Zendesk, Jive, ...
+* or just "intranet"
+
+I know that an intranet is more than the collaboratively edited content, but for this article I would just use the term "intranet".
 
 Raising obviousness is my passion. Our modern infrastructure is based on roads, water/gas/electricity supply. 
 Clean, simple docs are the like good roads in a knowledge-worker environment. 
+
 Raising obviousness helps to increase the efficiency.
+
 If something is unclear to me, then it is very likely that several other collegues have the same issue (but just don't talk about this).
 
-I seek the answer (like everybody) and then I update the central docs (only few people do this).
+If something is unclear, I seek the answer (like everybody) and then I update the central docs (only few people do this).
 
 So it helps twice: I learn, and the learning process for other employees get improved. 
 But you need to be careful: Too detailed information won't help (and gets outdated too soon). 
 My goal is to provide a clear terminology and an overview. 
 
-# What is an Intranet Wiki?
+# What is an Intranet ?
 
 * An Intranet Wiki is a tool on which users collaboratively edit content.
 * This content is available for all employees in a company and not visible on the world wide web.
