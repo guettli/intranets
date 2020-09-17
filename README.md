@@ -185,6 +185,13 @@ Provide a simple way for every reader to submit his feedback:
 * This page is related to URL/other-page
 * I am missing "....."
 
+# Page ownership
+
+The feedback which gets sent to a page needs owners. This needs to be explicit. Who will respond to the feedback?
+
+In most cases it is 100% ok, if one person responses to the feedback once a week. That's better then ten people responding to
+the feedback from time to time.
+
 # Lists
 
 It helps to get to clear and easy to understand processes if lists are visible and not stored in the brain.
