@@ -12,18 +12,18 @@ With the following text I would like to share my findings with you.
 
 Keep in mind, that this is my personal opinionated point of view. Read them and create your own point of view.
 
-Unfortunately there is no clear term, here are some examples:
+Unfortunately there is no clear term for the topic I write about. Here are some examples:
 
 * Documentation in intranets
 * Internal knowledge-base
 * Wiki
 * Some call it like the tool: Sharepoint, Confluence, Zendesk, Jive, ...
-* Or just "intranet"
+* Or just "Intranet"
 
 I know that an intranet is more than the collaboratively edited content, but for this article I would just use the term "Wiki".
 
 Raising obviousness is my passion. Our modern infrastructure is based on roads, water/gas/electricity supply. 
-Clean, simple docs are the like good roads in a knowledge-worker environment. 
+Clean, simple docs are like good roads in a knowledge-worker environment. 
 
 Raising obviousness helps to increase the efficiency.
 
@@ -131,7 +131,7 @@ What would be better? Team B should talk to team A and work on **one** joint sol
 
 How does Wikipedia solve this?
 
-They append the context in parentheses. For example the "Python (programming language)" and "Python_(genus)"
+They append the context in parentheses. For example the "Python (programming language)" and "Python (genus)"
 
 # Only send email notifications if requested.
 
@@ -153,11 +153,12 @@ General rule: Avoid [Information overload](https://en.wikipedia.org/wiki/Informa
 
 The acronyms JS, CI, HTML, CSS, AFAIK have all one thing in common: If you search for it with your favorite search engine, then you will find an explanation. 
 
-This means there is no need to create a wiki page for it-
+This means there is no need to create a wiki page for it.
 
 Example: CI means [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration).
 
-But if you create a page about CI, then start with the introduction. Even if you think "everybody knows this". Maybe everybody in the engineering department knows it. But a person without software development knowledge should understand what it is about. It is ok to just copy+paste this from the Wikipedia and create a link from your page to the source.
+But it makes sense to explain the particular way your company does the CI. If you create a page about CI, then start with the introduction. 
+Even if you think "everybody knows this". Maybe everybody in the engineering department knows it. But a person without software development knowledge should understand what it is about. It is ok to just copy+paste this from the Wikipedia and create a link from your page to the source.
 
 After the introduction explain your particular set-up. Add the URL where you can access the system (or systems) and add [#contact-channel](#contact-channel) where new users can ask questions.
 
