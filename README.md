@@ -61,12 +61,12 @@ During the COVID-19 lock-down it got very apparent. There are two ways to deal w
 You can create news or blog posts: emotional text about the current state. It will get outdated soon. Three days later the situation is
 different and you can create a new blog post.
 
-Or you can go the less emotional, more boring solution: You have one page, and this page gets updated. Most modern tools even allow you
+Or you can go the less emotional, more boring solution: You have one static page per topic, and this page gets updated. Most modern tools even allow you
 to greate a "diff". For interested readers, the diff shows the changes which happened during the last days.
 
 Be aware of those two completely different ways to handle information.
 
-I prefer the boring solution: Docs instead of news. Have a look at the blog post way: Who cares for them, if things change? Who will update hyperlinks which lead to nowhere? I most cases nobody has time for this.
+I prefer the boring solution: docs instead of news. Have a look at the blog post way: Who cares for them, if things change? Who will update hyperlinks which lead to nowhere? I most cases nobody has time for this.
 
 But you can have the best of both worlds: A fancy news channel full of emotions, which sometimes announces changes in the central and boring documentation.
 
