@@ -66,8 +66,10 @@ to greate a "diff". For interested readers, the diff shows the changes which hap
 
 Be aware of those two completely different ways to handle information.
 
-I prefer the boring solution: Docs instead of news. Have a look at the blog post way: Who cares for them, if things change? Who will update hyperlinks which
-lead to nowhere? I most cases nobody has time for this.
+I prefer the boring solution: Docs instead of news. Have a look at the blog post way: Who cares for them, if things change? Who will update hyperlinks which lead to nowhere? I most cases nobody has time for this.
+
+But you can have the best of both worlds: A fancy news channel full of emotions, which sometimes announces changes in the central and boring documentation.
+
 
 # Which Wiki Software?
 
