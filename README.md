@@ -20,7 +20,7 @@ Unfortunately there is no clear term for the topic I write about. Here are some 
 * Some call it like the tool: Sharepoint, Confluence, Zendesk, Jive, ...
 * Or just "Intranet"
 
-I know that an intranet is more than the collaboratively edited content, but for this article I would just use the term "Wiki".
+I know that an intranet is more than the collaboratively edited content, but for this article I would just use the term "Intranet Wiki".
 
 Raising obviousness is my passion. Our modern infrastructure is based on roads, water/gas/electricity supply. 
 Clean, simple docs are like good roads in a knowledge-worker environment. 
@@ -51,6 +51,23 @@ But a central Wiki is useful to improve the communication between departments, t
 Wikipedia pages are often very detailed. Usually, it makes no sense to explain every detail in an Intranet Wiki.
 
 An Intranet Wiki should provide an overview. Historical details should be removed or put onto an second page to focus on the current state.
+
+# "Fancy Blob Posts" vs "Boring Docs"
+
+You could call this "docs vs news", too.
+
+During the COVID-19 lock-down it got very apparent. There are two ways to deal with information.
+
+You can create news or blog posts: emotional text about the current state. It will get outdated soon. Three days later the situation is
+different and you can create a new blog post.
+
+Or you can go the less emotional, more boring solution: You have one page, and this page gets updated. Most modern tools even allow you
+to greate a "diff". For interested readers, the diff shows the changes which happened during the last days.
+
+Be aware of those two completely different ways to handle information.
+
+I prefer the boring solution: Docs instead of news. Have a look at the blog post way: Who cares for them, if things change? Who will update hyperlinks which
+lead to nowhere? I most cases nobody has time for this.
 
 # Which Wiki Software?
 
@@ -86,6 +103,14 @@ It is feasible to publish a #contact-channel on every wiki page. If a reader of 
 This could be a chat-channel, an email address or a role. It is feasible to avoid particular people, since they can be on holiday, busy or [hit by bus](https://en.wikipedia.org/wiki/Bus_factor).
 
 More about contact-channels here: [IUA (if unsure ask ...)](https://github.com/guettli/IUA-Channel)
+
+
+# Avoid contact persons, use contact channels.
+
+> If you want to use a volunteer day, write an e-mail to "emma.sunshine@our-company.com"
+
+What happens if Emma is on vacation?
+
 
 # Avoid Spaces
 
@@ -280,13 +305,7 @@ AFAIK there is no real alternative Wikipedia. This concept has won. And if you d
 part, then go ahead and improve it. No complicated process is between your idea and the world wide visible change.
 
 
-# Avoid contact persons, use contact channels.
-
-> If you want to use a volunteer day, write an e-mail to "emma.sunshine@our-company.com"
-
-What happens if Emma is on vacation?
-
-# If you use the Intranet for Brainstorming and Dreaming: State this
+# If you use the Intranet Wiki for Brainstorming and Dreaming: State this
 
 Most new projects start with enthusiasm. This will result in text like 
 
