@@ -220,6 +220,9 @@ The feedback which gets sent to a page needs owners. This needs to be explicit. 
 In most cases it is 100% ok, if one person responses to the feedback once a week. That's better then ten people responding to
 the feedback from time to time.
 
+A [IUA-Channel](https://github.com/guettli/IUA-Channel) is needed.
+
+
 # Lists
 
 It helps to get to clear and easy to understand processes if lists are visible and not stored in the brain.
