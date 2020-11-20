@@ -324,6 +324,16 @@ My hint: For brainstorming, dreaming and New Year Resulutions it is better to us
 
 If you use it for brainstorming, then state this at the top of the page.
 
+# DRY: Don't repeat yourself
+
+People like to help. Helping gives a warm comfortable feeling. Some people like to help by writing documentation. But wait! Not too fast!
+
+Documenting something three times in three different places does not help. It is the opposite: It confuses.
+
+**DRY: Don't repeat yourself**
+
+Create **one** place to define a term or a process. Then use hyperlinks on other pages to point to the single source of truth.
+
 # I need your feedback
 
 Please tell me what is nice and useful or wrong and useless. Please write me an email (info.intranets@thomas-guettler.de) or [create an issue](https://github.com/guettli/intranets/issues).
