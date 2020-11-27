@@ -337,3 +337,8 @@ Create **one** place to define a term or a process. Then use hyperlinks on other
 # I need your feedback
 
 Please tell me what is nice and useful or wrong and useless. Please write me an email (info.intranets@thomas-guettler.de) or [create an issue](https://github.com/guettli/intranets/issues).
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
