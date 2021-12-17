@@ -294,7 +294,7 @@ This is not a single big hierarchy. There are several **aspects**.
 
 Back to our topic "Intranets". What does this mean for the structure of intranets?
 
-I say "free yourself from hierarchies": One term, one page. This is like a very long glossary. 
+I say "free yourself from hierarchies": One term, one page. This is like a huge glossary. 
 
 Unfortunately this perspective is new and up to now not wide spread. But slowly this insight grows and 
 people avoid hierarchies for intranet pages.
