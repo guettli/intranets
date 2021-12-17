@@ -52,7 +52,7 @@ Wikipedia pages are often very detailed. Usually, it makes no sense to explain e
 
 An Intranet Wiki should provide an overview. Historical details should be removed or put onto an second page to focus on the current state.
 
-# "Fancy Blob Posts" vs "Boring Docs"
+# "Fancy Blog Posts" vs "Boring Docs"
 
 You could call this "docs vs news", too.
 
